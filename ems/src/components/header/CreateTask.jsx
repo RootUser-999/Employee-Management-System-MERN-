@@ -2,7 +2,7 @@ import React from 'react'
 
 export const CreateTask = () => {
   return (
-    <div className=' h-screen w-screen flex flex-col  items-center'> 
+    <div className='  w-screen flex flex-col  items-center'> 
           <div className=' bg-gray-900 h-[50%] w-[95%] mt-15 rounded-lg'>
             <form className='flex justify-between  p-10'>
               <div className='flex flex-col mt-5'>
